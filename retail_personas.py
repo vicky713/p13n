@@ -9,7 +9,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Final
 
-from lbg_personalization.content import PersonalizedBlock
+from content import PersonalizedBlock
 
 
 @dataclass(frozen=True)
