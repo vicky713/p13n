@@ -17,9 +17,9 @@ if str(_REPO_ROOT) not in sys.path:
 
 import streamlit as st
 
-from lbg_personalization.content import block_for_segment, theme_for_segment
-from lbg_personalization.detail_views import render_detail_view
-from lbg_personalization.retail_personas import RETAIL_PERSONA_ORDER, persona_by_id
+from content import block_for_segment, theme_for_segment
+from detail_views import render_detail_view
+from retail_personas import RETAIL_PERSONA_ORDER, persona_by_id
 
 
 def _init_session() -> None:
