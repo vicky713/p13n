@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="16" fill="#E8EAF6"/>
+  <rect x="24" y="36" width="80" height="56" rx="6" stroke="#3949AB" stroke-width="2.5" fill="#fff"/>
+  <path d="M36 52h56M36 64h44M36 76h56" stroke="#5C6BC0" stroke-width="2"/>
+  <text x="64" y="28" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#3949AB">SQL</text>
+</svg>
