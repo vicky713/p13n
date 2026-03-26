@@ -1,0 +1,5 @@
+# Personalization POC (Streamlit) — install: pip install -r requirements.txt
+# Run: streamlit run app.py  (from repo root, with repo root on PYTHONPATH or editable install)
+
+streamlit>=1.30.0
+pandas>=2.0.0
